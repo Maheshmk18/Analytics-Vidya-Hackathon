@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+catboost
+scipy
+matplotlib
+holidays
+joblib
+tqdm 
